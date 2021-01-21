@@ -1,4 +1,3 @@
-// To represent a cell of display board.
 public class Cell {
 
 	private final int row, col;

@@ -1,4 +1,3 @@
-// To represent a snake
 import java.util.LinkedList;
 
 public class Snake {

@@ -1,4 +1,4 @@
-public class Board {
+ public class Board {
 
 	final int ROW_COUNT, COL_COUNT;
 	private Cell[][] cells;
